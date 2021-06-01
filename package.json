@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/higuchi1208/typescript-for-javascript-dev/issues"
   },
-  "homepage": "https://github.com/higuchi1208/typescript-for-javascript-dev#readme"
+  "homepage": "https://github.com/higuchi1208/typescript-for-javascript-dev#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
